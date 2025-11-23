@@ -1,0 +1,23 @@
+{
+  "name": "intro_to_backend",
+  "version": "1.0.0",
+  "description": "a tutorial for intro to backend",
+  "homepage": "https://github.com/edobasky/INTRO_TO_BACKEND#readme",
+  "bugs": {
+    "url": "https://github.com/edobasky/INTRO_TO_BACKEND/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edobasky/INTRO_TO_BACKEND.git"
+  },
+  "license": "ISC",
+  "author": "Edore",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
